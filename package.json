@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "private": true,
+  "author": "Toufiq (https://twitter.com/burningraven06)",
+  "description" : "Basic Tryout of Push Notifications using Service Workers ",
+  "keywords" : ["service-workers","notifications"],
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
